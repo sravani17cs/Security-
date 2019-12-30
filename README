@@ -1,0 +1,8 @@
+*****************************************************************************************************************
+#Name: Sravani Ravula
+#Class: CS426
+#Description: It is a file transfer program with the UNIX file permissions.For example, assume Alice wants to make her schedule available to Bob. She places a copy of scopy in her public directory at /home/alice/public/scopy, verifies that Bob will be able to access it, and sets
+its SetUID bit with chmod u+s scopy. She also creates appropriate permission data so Bob can access her
+daily schedule.txt.
+# Run the Program by just typing : make run
+
